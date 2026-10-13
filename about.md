@@ -6,3 +6,7 @@ lista 1
 lista 2
 
 malo jos dodajemo teksta
+
+# o kursu
+
+lista tema koje ocekujemo
