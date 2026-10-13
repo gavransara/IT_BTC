@@ -4,3 +4,5 @@
 
 lista 1
 lista 2
+
+malo jos dodajemo teksta
