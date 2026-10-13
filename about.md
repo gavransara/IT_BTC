@@ -10,3 +10,7 @@ malo jos dodajemo teksta
 # o kursu
 
 lista tema koje ocekujemo
+
+tema 1
+tema 2
+tema 3
